@@ -1,10 +1,11 @@
-package com.example;
-/**
+/**.
  * Displays Hello World.
  * @author Van
  * @version 1.0
  * @since 2024/02/09
  */
+package com.example;
+
 public final class HelloWorldStyle {
     /**
      * This is a private constructor used to satisfy the linter.
