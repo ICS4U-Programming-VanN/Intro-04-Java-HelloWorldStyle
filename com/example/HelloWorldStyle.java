@@ -1,5 +1,6 @@
 package com.example;
 /**
+ * Displays Hello World.
  * @author Van
  * @version 1.0
  * @since 2024/02/09
@@ -16,7 +17,7 @@ public final class HelloWorldStyle {
   /**
    * Javadoc
    *
-   * @param unused
+   * @param args Unused
    */
   public static void main(final String[] args) {
     System.out.println("Hello World (with style)!");
