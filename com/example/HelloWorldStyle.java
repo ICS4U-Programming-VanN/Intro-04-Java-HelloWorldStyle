@@ -16,7 +16,7 @@ public final class HelloWorldStyle {
         throw new IllegalStateException("Utility class");
     }
   /**
-   * Javadoc
+   * Javadoc.
    *
    * @param args Unused
    */
